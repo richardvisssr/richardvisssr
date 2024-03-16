@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Mijn naam is Richard Visser</h1>
+<h1 align="center">Hoi 👋, Mijn naam is Richard Visser</h1>
 <h3 align="center">Een enthousiaste en ondernemende ICT'er met een passie voor sociale interactie, die voortdurend op zoek is naar nieuwe kennis en vaardigheden.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardvisssr&label=Profile%20views&color=0e75b6&style=flat" alt="richardvisssr" /> </p>
