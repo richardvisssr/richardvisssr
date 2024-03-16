@@ -7,9 +7,9 @@
 
 - 📖 Studie: **Web Development**
 
-- 👨‍💻 Projecten: [https://github.com/richardvisssr?tab=repositories](https://github.com/richardvisssr?tab=repositories)
+- 👨‍💻 Projecten: [Repository](https://github.com/richardvisssr?tab=repositories)
 
-- 📄 Curriculum Vitae: [https://github.com/richardvisssr/Curriculum-Vitae/blob/6ab94b69c97e069aa1ded96339bb3d2f7bd9d658/README.md](https://github.com/richardvisssr/Curriculum-Vitae/blob/6ab94b69c97e069aa1ded96339bb3d2f7bd9d658/README.md)
+- 📄 Curriculum Vitae: [Curriculum Vitae](https://github.com/richardvisssr/Curriculum-Vitae/blob/6ab94b69c97e069aa1ded96339bb3d2f7bd9d658/README.md)
 
 - 📫 E-mail: **HJ.Visser@student.han.nl**
 
